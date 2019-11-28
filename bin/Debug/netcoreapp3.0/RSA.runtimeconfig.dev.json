@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lephin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lephin\\.nuget\\packages"
+    ]
+  }
+}
